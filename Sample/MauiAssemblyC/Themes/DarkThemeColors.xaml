@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<local:AThemeDictionary xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+                    x:Class="MauiAssemblyC.Themes.DarkThemeColors"
+                    xmlns:local="clr-namespace:MauiAssemblyC.Themes">
+
+    <x:String x:Key="ATheme">DarkTheme</x:String>
+
+    <Color x:Key="White">#FFFFFF</Color>
+    <Color x:Key="Black">#000000</Color>
+    <Color x:Key="AABorder">#4A4458</Color>
+    <Color x:Key="AABorderBackground">#4A4458</Color>
+    <Color x:Key="AABorderAForeground">#E8DEF8</Color>
+    <Color x:Key="AABorderDisabled">#1fe6e1e5</Color>
+    <Color x:Key="AABorderBackgroundDisabled">#1fe6e1e5</Color>
+    <Color x:Key="AABorderAForegroundDisabled">#E6E1E5</Color>
+    <Color x:Key="AABorderBackgroundHovered">#575065</Color>
+    <Color x:Key="AABorderAForegroundHovered">#E8DEF8</Color>
+    <Color x:Key="AABorderHovered">#575065</Color>
+    <Color x:Key="AABorderBackgroundSelected">#5D566B</Color>
+    <Color x:Key="AABorderAForegroundSelected">#E8DEF8</Color>
+    <Color x:Key="AABorderSelected">#5D566B</Color>
+    <Color x:Key="AABorderBackgroundPressed">#5D566B</Color>
+    <Color x:Key="AABorderAForegroundPressed">#E8DEF8</Color>
+    <Color x:Key="AABorderPressed">#5D566B</Color>
+    <Color x:Key="AABorderBackgroundHovered">#14d0bcff</Color>
+    <Color x:Key="AABorderBackgroundPressed">#1fd0bcff</Color>
+    <Color x:Key="AABorderBackgroundSelected">#14d0bcff</Color>
+    <Color x:Key="AABorderBackgroundFocused">#1fd0bcff</Color>
+    <Color x:Key="AABorderBackgroundDisabled">#00ffffff</Color>
+    <Color x:Key="AABorderContentBackground">#1C1B1F</Color>
+    <Color x:Key="AABorderContentBackgroundAlt1">#25232A</Color>
+    <Color x:Key="AABorderContentBackgroundAlt2">#2A2831</Color>
+    <Color x:Key="AABorderContentBackgroundAlt3">#302D38</Color>
+    <Color x:Key="AABorderContentBackgroundAlt4">#322E3A</Color>
+    <Color x:Key="AABorderContentBackgroundAlt5">#49454F</Color>
+    <Color x:Key="AABorderContentBackgroundHovered">#14e6e1e5</Color>
+    <Color x:Key="AABorderContentBackgroundPressed">#1fe6e1e5</Color>
+    <Color x:Key="AABorderContentBackgroundSelected">#4A4458</Color>
+    <Color x:Key="AABorderContentBackgroundFocused">#1fe6e1e5</Color>
+    <Color x:Key="AABorderContentBackgroundDisabled">#0ae6e1e5</Color>
+    <Color x:Key="AABorderFlyoutBackground">#302D38</Color>
+    <Color x:Key="AABorderFlyoutABorder">#302D38</Color>
+    <Color x:Key="AABorderFlyoutBackgroundHovered">#14e6e1e5</Color>
+    <Color x:Key="AABorderFlyoutBackgroundPressed">#1fe6e1e5</Color>
+    <Color x:Key="AABorderFlyoutBackgroundSelected">#4A4458</Color>
+    <Color x:Key="AABorderFlyoutBackgroundFocused">#1fe6e1e5</Color>
+    <Color x:Key="AABorderFlyoutBackgroundDisabled">#00ffffff</Color>
+    <Color x:Key="DummyBackgroundHovered">#14e6e1e5</Color>
+    <Color x:Key="DummyBackgroundPressed">#1fe6e1e5</Color>
+    <Color x:Key="DummyBackgroundSelected">#4A4458</Color>
+    <Color x:Key="DummyBackgroundFocused">#1fe6e1e5</Color>
+    <Color x:Key="DummyBackgroundDisabled">#00ffffff</Color>
+    <Color x:Key="SampleBackgroundHovered">#14cac4d0</Color>
+    <Color x:Key="SampleBackgroundPressed">#1fcac4d0</Color>
+    <Color x:Key="SampleBackgroundSelected">#29cac4d0</Color>
+    <Color x:Key="SampleBackgroundFocused">#1fcac4d0</Color>
+    <Color x:Key="SampleBackgroundDisabled">#00ffffff</Color>
+    <Color x:Key="DefaultColor">#CAC4D0</Color>
+    <Color x:Key="DefaultColorHovered">#E6E1E5</Color>
+    <Color x:Key="DefaultColorPressed">#CAC4D0</Color>
+    <Color x:Key="DefaultColorDisabled">#61e6e1e5</Color>
+    <Color x:Key="AABorderContentAForeground">#E6E1E5</Color>
+    <Color x:Key="AABorderContentAForegroundAlt1">#CAC4D0</Color>
+    <Color x:Key="PlaceholderAForeground">#CAC4D0</Color>
+    <Color x:Key="AForegroundHovered">#E6E1E5</Color>
+    <Color x:Key="AForegroundPressed">#E6E1E5</Color>
+    <Color x:Key="AForegroundSelected">#E6E1E5</Color>
+    <Color x:Key="AForegroundFocused">#E6E1E5</Color>
+    <Color x:Key="AForegroundDisabled">#61e6e1e5</Color>
+    <Color x:Key="ABackground">#D0BCFF</Color>
+    <Color x:Key="ABackgroundHovered">#C4AFF4</Color>
+    <Color x:Key="ABackgroundPressed">#BEA9EE</Color>
+    <Color x:Key="ABackgroundSelected">#C4AFF4</Color>
+    <Color x:Key="ABackgroundFocused">#BEA9EE</Color>
+    <Color x:Key="ABackgroundDisabled">#1fe6e1e5</Color>
+    <Color x:Key="AABorder">#D0BCFF</Color>
+    <Color x:Key="AABorderHovered">#C4AFF4</Color>
+    <Color x:Key="AABorderPressed">#BEA9EE</Color>
+    <Color x:Key="AABorderSelected">#C4AFF4</Color>
+    <Color x:Key="AABorderFocused">#BEA9EE</Color>
+    <Color x:Key="AABorderDisabled">#1fe6e1e5</Color>
+    <Color x:Key="AAForeground">#381E72</Color>
+    <Color x:Key="AAForegroundHovered">#381E72</Color>
+    <Color x:Key="AAForegroundPressed">#381E72</Color>
+    <Color x:Key="AAForegroundSelected">#381E72</Color>
+    <Color x:Key="AAForegroundFocused">#381E72</Color>
+    <Color x:Key="AAForegroundDisabled">#61e6e1e5</Color>
+    <Color x:Key="ABorder">#49454F</Color>
+    <Color x:Key="ABorderAlt1">#938F99</Color>
+    <Color x:Key="ABorderAlt2">#CAC4D0</Color>
+    <Color x:Key="ABorderAlt3">#61e6e1e5</Color>
+    <Color x:Key="ABorderAlt4">#E6E1E5</Color>
+    <Color x:Key="Transparent">#00000000</Color>
+    <Color x:Key="ErrorAForeground">#F2B8B5</Color>
+    <Color x:Key="SuccessAForeground">#9DD67E</Color>
+    <Color x:Key="WarningAForeground">#FFB77F</Color>
+    <Color x:Key="ErrorABorder">#F2B8B5</Color>
+    <Color x:Key="SuccessABorder">#9DD67E</Color>
+    <Color x:Key="WarningABorder">#FFB77F</Color>
+    <Color x:Key="Overlay">#80000000</Color>
+    <Color x:Key="AEntryBackground">#49454F</Color>
+    <Color x:Key="AEntryBackgroundHovered">#56515B</Color>
+    <Color x:Key="AEntryBackgroundPressed">#49454F</Color>
+    <Color x:Key="AEntryBackgroundDisabled">#0ae6e1e5</Color>
+    <Color x:Key="TextSelectionFocused">#D0BCFF</Color>
+    <Color x:Key="AEntryBoxABorder">#938F99</Color>
+    <Color x:Key="AEntryABorderHovered">#1C1B1F</Color>
+    <Color x:Key="AEntryABorderPressed">#D0BCFF</Color>
+    <Color x:Key="AEntryABorderDisabled">#61e6e1e5</Color>
+    <Color x:Key="SliderThumbABorder">#D0BCFF</Color>
+    <Color x:Key="SliderThumbBackground">#D0BCFF</Color>
+    <Color x:Key="ToastBackground">#E6E1E5</Color>
+    <Color x:Key="ToastAForeground">#313033</Color>
+    <Color x:Key="FocusedSearchResult">#9A7700</Color>
+    <Color x:Key="AABorderSearchResult">#63532C</Color>
+    <Color x:Key="ABorderToolTipBackground">#E6E1E5</Color>
+    <Color x:Key="ABorderToolTipABorder">#E6E1E5</Color>
+    <Color x:Key="ABorderToolTipAABorderContentABorder">#E6E1E5</Color>
+    <Color x:Key="ABorderToolTipAForeground">#313033</Color>
+    <Color x:Key="AColor1">#2196F3</Color>
+    <Color x:Key="AColor2">#25E739</Color>
+    <Color x:Key="AColor3">#F4890B</Color>
+    <Color x:Key="AColor4">#E2227E</Color>
+    <Color x:Key="AColor5">#116DF9</Color>
+    <Color x:Key="AColor6">#9215F3</Color>
+    <Color x:Key="AColor7">#00E190</Color>
+    <Color x:Key="AColor8">#FCD404</Color>
+    <Color x:Key="AColor9">#FF4E4E</Color>
+    <Color x:Key="AColor10">#28252C</Color>
+    <Color x:Key="AColor11">#49454F</Color>
+    <Color x:Key="AColor12">#CAC4D0</Color>
+    <Color x:Key="ABackgroundOpacity1">#80d0bcff</Color>
+    <Color x:Key="AColorWhite">#FFFFFF</Color>
+    <Color x:Key="AColorBlack">#000000</Color>
+    <SolidColorBrush x:Key="WhiteBrush" Color="{StaticResource White}"/>
+    <SolidColorBrush x:Key="BlackBrush" Color="{StaticResource Black}"/>
+    <SolidColorBrush x:Key="AABorderBrush" Color="{StaticResource AABorder}"/>
+    <SolidColorBrush x:Key="AABorderBackgroundBrush" Color="{StaticResource AABorderBackground}"/>
+    <SolidColorBrush x:Key="AABorderAForegroundBrush" Color="{StaticResource AABorderAForeground}"/>
+    <SolidColorBrush x:Key="AABorderDisabledBrush" Color="{StaticResource AABorderDisabled}"/>
+    <SolidColorBrush x:Key="AABorderBackgroundDisabledBrush" Color="{StaticResource AABorderBackgroundDisabled}"/>
+    <SolidColorBrush x:Key="AABorderAForegroundDisabledBrush" Color="{StaticResource AABorderAForegroundDisabled}"/>
+    <SolidColorBrush x:Key="AABorderBackgroundHoveredBrush" Color="{StaticResource AABorderBackgroundHovered}"/>
+    <SolidColorBrush x:Key="AABorderAForegroundHoveredBrush" Color="{StaticResource AABorderAForegroundHovered}"/>
+    <SolidColorBrush x:Key="AABorderHoveredBrush" Color="{StaticResource AABorderHovered}"/>
+    <SolidColorBrush x:Key="AABorderBackgroundSelectedBrush" Color="{StaticResource AABorderBackgroundSelected}"/>
+    <SolidColorBrush x:Key="AABorderAForegroundSelectedBrush" Color="{StaticResource AABorderAForegroundSelected}"/>
+    <SolidColorBrush x:Key="AABorderSelectedBrush" Color="{StaticResource AABorderSelected}"/>
+    <SolidColorBrush x:Key="AABorderBackgroundPressedBrush" Color="{StaticResource AABorderBackgroundPressed}"/>
+    <SolidColorBrush x:Key="AABorderAForegroundPressedBrush" Color="{StaticResource AABorderAForegroundPressed}"/>
+    <SolidColorBrush x:Key="AABorderPressedBrush" Color="{StaticResource AABorderPressed}"/>
+    <SolidColorBrush x:Key="AABorderBackgroundHoveredBrush" Color="{StaticResource AABorderBackgroundHovered}"/>
+    <SolidColorBrush x:Key="AABorderBackgroundPressedBrush" Color="{StaticResource AABorderBackgroundPressed}"/>
+    <SolidColorBrush x:Key="AABorderBackgroundSelectedBrush" Color="{StaticResource AABorderBackgroundSelected}"/>
+    <SolidColorBrush x:Key="AABorderBackgroundFocusedBrush" Color="{StaticResource AABorderBackgroundFocused}"/>
+    <SolidColorBrush x:Key="AABorderBackgroundDisabledBrush" Color="{StaticResource AABorderBackgroundDisabled}"/>
+    <SolidColorBrush x:Key="AABorderContentBackgroundBrush" Color="{StaticResource AABorderContentBackground}"/>
+    <SolidColorBrush x:Key="AABorderContentBackgroundAlt1Brush" Color="{StaticResource AABorderContentBackgroundAlt1}"/>
+    <SolidColorBrush x:Key="AABorderContentBackgroundAlt2Brush" Color="{StaticResource AABorderContentBackgroundAlt2}"/>
+    <SolidColorBrush x:Key="AABorderContentBackgroundAlt3Brush" Color="{StaticResource AABorderContentBackgroundAlt3}"/>
+    <SolidColorBrush x:Key="AABorderContentBackgroundAlt4Brush" Color="{StaticResource AABorderContentBackgroundAlt4}"/>
+    <SolidColorBrush x:Key="AABorderContentBackgroundAlt5Brush" Color="{StaticResource AABorderContentBackgroundAlt5}"/>
+    <SolidColorBrush x:Key="AABorderContentBackgroundHoveredBrush" Color="{StaticResource AABorderContentBackgroundHovered}"/>
+    <SolidColorBrush x:Key="AABorderContentBackgroundPressedBrush" Color="{StaticResource AABorderContentBackgroundPressed}"/>
+    <SolidColorBrush x:Key="AABorderContentBackgroundSelectedBrush" Color="{StaticResource AABorderContentBackgroundSelected}"/>
+    <SolidColorBrush x:Key="AABorderContentBackgroundFocusedBrush" Color="{StaticResource AABorderContentBackgroundFocused}"/>
+    <SolidColorBrush x:Key="AABorderContentBackgroundDisabledBrush" Color="{StaticResource AABorderContentBackgroundDisabled}"/>
+    <SolidColorBrush x:Key="AABorderFlyoutBackgroundBrush" Color="{StaticResource AABorderFlyoutBackground}"/>
+    <SolidColorBrush x:Key="AABorderFlyoutABorderBrush" Color="{StaticResource AABorderFlyoutABorder}"/>
+    <SolidColorBrush x:Key="AABorderFlyoutBackgroundHoveredBrush" Color="{StaticResource AABorderFlyoutBackgroundHovered}"/>
+    <SolidColorBrush x:Key="AABorderFlyoutBackgroundPressedBrush" Color="{StaticResource AABorderFlyoutBackgroundPressed}"/>
+    <SolidColorBrush x:Key="AABorderFlyoutBackgroundSelectedBrush" Color="{StaticResource AABorderFlyoutBackgroundSelected}"/>
+    <SolidColorBrush x:Key="AABorderFlyoutBackgroundFocusedBrush" Color="{StaticResource AABorderFlyoutBackgroundFocused}"/>
+    <SolidColorBrush x:Key="AABorderFlyoutBackgroundDisabledBrush" Color="{StaticResource AABorderFlyoutBackgroundDisabled}"/>
+    <SolidColorBrush x:Key="DummyBackgroundHoveredBrush" Color="{StaticResource DummyBackgroundHovered}"/>
+    <SolidColorBrush x:Key="DummyBackgroundPressedBrush" Color="{StaticResource DummyBackgroundPressed}"/>
+    <SolidColorBrush x:Key="DummyBackgroundSelectedBrush" Color="{StaticResource DummyBackgroundSelected}"/>
+    <SolidColorBrush x:Key="DummyBackgroundFocusedBrush" Color="{StaticResource DummyBackgroundFocused}"/>
+    <SolidColorBrush x:Key="DummyBackgroundDisabledBrush" Color="{StaticResource DummyBackgroundDisabled}"/>
+    <SolidColorBrush x:Key="SampleBackgroundHoveredBrush" Color="{StaticResource SampleBackgroundHovered}"/>
+    <SolidColorBrush x:Key="SampleBackgroundPressedBrush" Color="{StaticResource SampleBackgroundPressed}"/>
+    <SolidColorBrush x:Key="SampleBackgroundSelectedBrush" Color="{StaticResource SampleBackgroundSelected}"/>
+    <SolidColorBrush x:Key="SampleBackgroundFocusedBrush" Color="{StaticResource SampleBackgroundFocused}"/>
+    <SolidColorBrush x:Key="SampleBackgroundDisabledBrush" Color="{StaticResource SampleBackgroundDisabled}"/>
+    <SolidColorBrush x:Key="DefaultColorBrush" Color="{StaticResource DefaultColor}"/>
+    <SolidColorBrush x:Key="DefaultColorHoveredBrush" Color="{StaticResource DefaultColorHovered}"/>
+    <SolidColorBrush x:Key="DefaultColorPressedBrush" Color="{StaticResource DefaultColorPressed}"/>
+    <SolidColorBrush x:Key="DefaultColorDisabledBrush" Color="{StaticResource DefaultColorDisabled}"/>
+    <SolidColorBrush x:Key="AABorderContentAForegroundBrush" Color="{StaticResource AABorderContentAForeground}"/>
+    <SolidColorBrush x:Key="AABorderContentAForegroundAlt1Brush" Color="{StaticResource AABorderContentAForegroundAlt1}"/>
+    <SolidColorBrush x:Key="PlaceholderAForegroundBrush" Color="{StaticResource PlaceholderAForeground}"/>
+    <SolidColorBrush x:Key="AForegroundHoveredBrush" Color="{StaticResource AForegroundHovered}"/>
+    <SolidColorBrush x:Key="AForegroundPressedBrush" Color="{StaticResource AForegroundPressed}"/>
+    <SolidColorBrush x:Key="AForegroundSelectedBrush" Color="{StaticResource AForegroundSelected}"/>
+    <SolidColorBrush x:Key="AForegroundFocusedBrush" Color="{StaticResource AForegroundFocused}"/>
+    <SolidColorBrush x:Key="AForegroundDisabledBrush" Color="{StaticResource AForegroundDisabled}"/>
+    <SolidColorBrush x:Key="ABackgroundBrush" Color="{StaticResource ABackground}"/>
+    <SolidColorBrush x:Key="ABackgroundHoveredBrush" Color="{StaticResource ABackgroundHovered}"/>
+    <SolidColorBrush x:Key="ABackgroundPressedBrush" Color="{StaticResource ABackgroundPressed}"/>
+    <SolidColorBrush x:Key="ABackgroundSelectedBrush" Color="{StaticResource ABackgroundSelected}"/>
+    <SolidColorBrush x:Key="ABackgroundFocusedBrush" Color="{StaticResource ABackgroundFocused}"/>
+    <SolidColorBrush x:Key="ABackgroundDisabledBrush" Color="{StaticResource ABackgroundDisabled}"/>
+    <SolidColorBrush x:Key="AABorderBrush" Color="{StaticResource AABorder}"/>
+    <SolidColorBrush x:Key="AABorderHoveredBrush" Color="{StaticResource AABorderHovered}"/>
+    <SolidColorBrush x:Key="AABorderPressedBrush" Color="{StaticResource AABorderPressed}"/>
+    <SolidColorBrush x:Key="AABorderSelectedBrush" Color="{StaticResource AABorderSelected}"/>
+    <SolidColorBrush x:Key="AABorderFocusedBrush" Color="{StaticResource AABorderFocused}"/>
+    <SolidColorBrush x:Key="AABorderDisabledBrush" Color="{StaticResource AABorderDisabled}"/>
+    <SolidColorBrush x:Key="AAForegroundBrush" Color="{StaticResource AAForeground}"/>
+    <SolidColorBrush x:Key="AAForegroundHoveredBrush" Color="{StaticResource AAForegroundHovered}"/>
+    <SolidColorBrush x:Key="AAForegroundPressedBrush" Color="{StaticResource AAForegroundPressed}"/>
+    <SolidColorBrush x:Key="AAForegroundSelectedBrush" Color="{StaticResource AAForegroundSelected}"/>
+    <SolidColorBrush x:Key="AAForegroundFocusedBrush" Color="{StaticResource AAForegroundFocused}"/>
+    <SolidColorBrush x:Key="AAForegroundDisabledBrush" Color="{StaticResource AAForegroundDisabled}"/>
+    <SolidColorBrush x:Key="ABorderBrush" Color="{StaticResource ABorder}"/>
+    <SolidColorBrush x:Key="ABorderAlt1Brush" Color="{StaticResource ABorderAlt1}"/>
+    <SolidColorBrush x:Key="ABorderAlt2Brush" Color="{StaticResource ABorderAlt2}"/>
+    <SolidColorBrush x:Key="ABorderAlt3Brush" Color="{StaticResource ABorderAlt3}"/>
+    <SolidColorBrush x:Key="ABorderAlt4Brush" Color="{StaticResource ABorderAlt4}"/>
+    <SolidColorBrush x:Key="TransparentBrush" Color="{StaticResource Transparent}"/>
+    <SolidColorBrush x:Key="ErrorAForegroundBrush" Color="{StaticResource ErrorAForeground}"/>
+    <SolidColorBrush x:Key="SuccessAForegroundBrush" Color="{StaticResource SuccessAForeground}"/>
+    <SolidColorBrush x:Key="WarningAForegroundBrush" Color="{StaticResource WarningAForeground}"/>
+    <SolidColorBrush x:Key="ErrorABorderBrush" Color="{StaticResource ErrorABorder}"/>
+    <SolidColorBrush x:Key="SuccessABorderBrush" Color="{StaticResource SuccessABorder}"/>
+    <SolidColorBrush x:Key="WarningABorderBrush" Color="{StaticResource WarningABorder}"/>
+    <SolidColorBrush x:Key="OverlayBrush" Color="{StaticResource Overlay}"/>
+    <SolidColorBrush x:Key="AEntryBackgroundBrush" Color="{StaticResource AEntryBackground}"/>
+    <SolidColorBrush x:Key="AEntryBackgroundHoveredBrush" Color="{StaticResource AEntryBackgroundHovered}"/>
+    <SolidColorBrush x:Key="AEntryBackgroundPressedBrush" Color="{StaticResource AEntryBackgroundPressed}"/>
+    <SolidColorBrush x:Key="AEntryBackgroundDisabledBrush" Color="{StaticResource AEntryBackgroundDisabled}"/>
+    <SolidColorBrush x:Key="TextSelectionFocusedBrush" Color="{StaticResource TextSelectionFocused}"/>
+    <SolidColorBrush x:Key="AEntryBoxABorderBrush" Color="{StaticResource AEntryBoxABorder}"/>
+    <SolidColorBrush x:Key="AEntryABorderHoveredBrush" Color="{StaticResource AEntryABorderHovered}"/>
+    <SolidColorBrush x:Key="AEntryABorderPressedBrush" Color="{StaticResource AEntryABorderPressed}"/>
+    <SolidColorBrush x:Key="AEntryABorderDisabledBrush" Color="{StaticResource AEntryABorderDisabled}"/>
+    <SolidColorBrush x:Key="SliderThumbABorderBrush" Color="{StaticResource SliderThumbABorder}"/>
+    <SolidColorBrush x:Key="SliderThumbBackgroundBrush" Color="{StaticResource SliderThumbBackground}"/>
+    <SolidColorBrush x:Key="ToastBackgroundBrush" Color="{StaticResource ToastBackground}"/>
+    <SolidColorBrush x:Key="ToastAForegroundBrush" Color="{StaticResource ToastAForeground}"/>
+    <SolidColorBrush x:Key="FocusedSearchResultBrush" Color="{StaticResource FocusedSearchResult}"/>
+    <SolidColorBrush x:Key="AABorderSearchResultBrush" Color="{StaticResource AABorderSearchResult}"/>
+    <SolidColorBrush x:Key="ABorderToolTipBackgroundBrush" Color="{StaticResource ABorderToolTipBackground}"/>
+    <SolidColorBrush x:Key="ABorderToolTipABorderBrush" Color="{StaticResource ABorderToolTipABorder}"/>
+    <SolidColorBrush x:Key="ABorderToolTipAABorderContentABorderBrush" Color="{StaticResource ABorderToolTipAABorderContentABorder}"/>
+    <SolidColorBrush x:Key="ABorderToolTipAForegroundBrush" Color="{StaticResource ABorderToolTipAForeground}"/>
+    <SolidColorBrush x:Key="AColor1Brush" Color="{StaticResource AColor1}"/>
+    <SolidColorBrush x:Key="AColor2Brush" Color="{StaticResource AColor2}"/>
+    <SolidColorBrush x:Key="AColor3Brush" Color="{StaticResource AColor3}"/>
+    <SolidColorBrush x:Key="AColor4Brush" Color="{StaticResource AColor4}"/>
+    <SolidColorBrush x:Key="AColor5Brush" Color="{StaticResource AColor5}"/>
+    <SolidColorBrush x:Key="AColor6Brush" Color="{StaticResource AColor6}"/>
+    <SolidColorBrush x:Key="AColor7Brush" Color="{StaticResource AColor7}"/>
+    <SolidColorBrush x:Key="AColor8Brush" Color="{StaticResource AColor8}"/>
+    <SolidColorBrush x:Key="AColor9Brush" Color="{StaticResource AColor9}"/>
+    <SolidColorBrush x:Key="AColor10Brush" Color="{StaticResource AColor10}"/>
+    <SolidColorBrush x:Key="AColor11Brush" Color="{StaticResource AColor11}"/>
+    <SolidColorBrush x:Key="AColor12Brush" Color="{StaticResource AColor12}"/>
+    <SolidColorBrush x:Key="ABackgroundOpacity1Brush" Color="{StaticResource ABackgroundOpacity1}"/>
+    <SolidColorBrush x:Key="AColorWhiteBrush" Color="{StaticResource AColorWhite}"/>
+    <SolidColorBrush x:Key="AColorBlackBrush" Color="{StaticResource AColorBlack}"/>
+
+    <LinearGradientBrush x:Key="linearbrush" StartPoint="0,0" EndPoint="1,0">
+        <GradientStop Color="#6750A4" Offset="0" />
+        <GradientStop Color="#6750A4" Offset="0.15" />
+        <GradientStop Color="#6750A4" Offset="1" />
+    </LinearGradientBrush>
+    <LinearGradientBrush x:Key="linearbrush1" StartPoint="0,0" EndPoint="1,0">
+        <GradientStop Color="#1C1B1E" Offset="0" />
+        <GradientStop Color="#1C1B1E" Offset="0.15" />
+        <GradientStop Color="#1C1B1E" Offset="1" />
+    </LinearGradientBrush>
+
+</local:AThemeDictionary>
